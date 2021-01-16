@@ -1,0 +1,2 @@
+# Bushfire-Analysis-using-Meteorological-Data
+In this project, we are interested in exploring machine learning approaches to predict the burned area of bushfires by using meteorological data that are known to influence the wild fires. The dataset that we are going to use here were originally collected from the northeast region of Portugal between January 2000 and December 2003. It contains geographical information, fire weather indices, and the corresponding weather conditions. The aim is to build statistical models that can predict the burned area of the bushfires.
